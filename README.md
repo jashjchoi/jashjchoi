@@ -1,7 +1,7 @@
 # :wave: Hello, World!
 ## :question: Who am I?
 <p align='left'>
-I am Jasmine Choi and I'm passionate about creating and developing web interfaces. Eager to obtain a position that will expand my learning and build upon my developer skills.
+I am Jasmine Choi and I'm passionate about creating and developing web interfaces. Software Engineer who's eager to obtain a position that will expand my learning and build upon my developer skills.
 </p>
 
 
